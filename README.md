@@ -40,7 +40,7 @@ The project utilizes a CSV dataset sourced from Kaggle, providing comprehensive 
 
 
 ## Conclusion
-IPL Dashboard is a showcase of my skills in Full Stack Development, combining backend processing with Spring Boot and frontend development with React JS. The use of Chart JS enhances the user experience by providing visual insights into team performance.
+IPL Dashboard is a showcase of my skills in Full Stack Development, combining backend processing with `Spring Boot` and frontend development with `React JS`. The integration of `Spring Batch` adds a layer of sophistication, enabling the streamlined processing of data from a CSV dataset obtained from Kaggle. The use of `Chart JS` enhances the user experience by providing visual insights into team performance.
 
 
 
